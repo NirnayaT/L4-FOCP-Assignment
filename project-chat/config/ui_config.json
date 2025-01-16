@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "primary": "#2c3e50",
+        "secondary": "#34495e",
+        "background": "#f0f0f0",
+        "text": "#2c3e50",
+        "white": "white"
+    },
+    "fonts": {
+        "header": "Helvetica 14 bold",
+        "normal": "Helvetica 11",
+        "input": "Helvetica 12",
+        "button": "Helvetica 11 bold"
+    },
+    "dimensions": {
+        "window_width": 800,
+        "window_height": 600,
+        "button_height": 2,
+        "input_padding": 8
+    }
+}
