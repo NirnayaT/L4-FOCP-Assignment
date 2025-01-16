@@ -3,7 +3,6 @@ import tkinter as tk
 
 def main():
     root = tk.Tk()
-    root.title("University of Poppleton Chatbot")
     app = ChatbotApp(root)
     root.mainloop()
 
