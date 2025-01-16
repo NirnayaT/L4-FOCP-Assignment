@@ -1,0 +1,6 @@
+{
+    "HAM": {"name": "Lewis Hamilton", "team": "Mercedes"},
+    "VER": {"name": "Max Verstappen", "team": "Red Bull Racing"},
+    "LEC": {"name": "Charles Leclerc", "team": "Ferrari"},
+    "ALO": {"name": "Fernando Alonso", "team": "Aston Martin"}
+}

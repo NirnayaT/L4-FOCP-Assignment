@@ -1,0 +1,77 @@
+[2025-01-14 01:50:22] User: Courses
+--------------------------------------------------
+[2025-01-14 01:50:22] User: Courses
+[2025-01-14 01:50:22] Bot: Great question Guest! We offer diverse programs including:
+- Computer Science (AI, Cybersecurity, Software Engineering)
+- Business (Management, Marketing, Finance)
+- Engineering
+- Arts & Humanities
+Which field interests you most?
+--------------------------------------------------
+[2025-01-14 01:50:24] User: Fees
+--------------------------------------------------
+[2025-01-14 01:50:24] User: Fees
+[2025-01-14 01:50:24] Bot: Let me help you with fees information, Guest:
+- Undergraduate: £9,250/year (UK students)
+- International: £15,000-£21,000/year
+- Postgraduate: Varies by program
+Visit poppleton.ac.uk/fees for payment plans and scholarships!
+--------------------------------------------------
+[2025-01-14 01:50:26] User: Accommodation
+--------------------------------------------------
+[2025-01-14 01:50:26] User: Accommodation
+[2025-01-14 01:50:26] Bot: We've got great living options, Guest:
+- Poppleton Halls (on campus)
+- City Centre Apartments
+- Shared Student Houses
+All include:
+- High-speed WiFi
+- 24/7 security
+- Common rooms
+- Laundry facilities
+Prices range from £125-£200 per week
+--------------------------------------------------
+[2025-01-14 01:50:29] User: Library
+--------------------------------------------------
+[2025-01-14 01:50:29] User: Library
+[2025-01-14 01:50:29] Bot: Our state-of-the-art library features:
+- 24/7 access all year round
+- Silent study zones
+- Group work pods
+- Digital media lab
+- 500,000+ books and online resources
+Your student ID gives you full access, Guest!
+--------------------------------------------------
+[2025-01-14 01:50:33] User: Sports
+--------------------------------------------------
+[2025-01-14 01:50:33] User: Sports
+[2025-01-14 01:50:33] Bot: Stay active with our sports facilities:
+- Olympic-size swimming pool
+- Multi-purpose sports hall
+- Modern gym
+- Football pitches
+- Tennis courts
+- Cricket ground
+Student membership is just £99/year, Guest!
+--------------------------------------------------
+[2025-01-14 01:50:34] User: Events
+--------------------------------------------------
+[2025-01-14 01:50:34] User: Events
+[2025-01-14 01:50:34] Bot: There's always something happening, Guest!
+- Weekly guest lectures
+- Monthly career fairs
+- Cultural festivals
+- Sports tournaments
+- Music concerts
+Check poppleton.ac.uk/events for the full calendar!
+--------------------------------------------------
+[2025-01-14 01:50:39] User: Mahabharata
+--------------------------------------------------
+[2025-01-14 01:50:39] User: Mahabharata
+[2025-01-14 01:50:39] Bot: The Mahabharata is fascinating, Guest! It's:
+- One of world's longest epics (100,000 verses)
+- Contains the Bhagavad Gita
+- Tells the story of the Kurukshetra War
+- Explores dharma, duty, and philosophy
+Our Asian Studies department offers courses on this!
+--------------------------------------------------
